@@ -25,7 +25,7 @@
 <p align="left">
 
 <a href="https://master--sambit-new-portfolio.netlify.app/" target="blank">
-<img align="center" src="https://cdn.simpleicons.org/vercel/white" height="50" />
+<img align="center" src="https://cdn.simpleicons.org/googlechrome" height="50" />
 </a>
 
 <a href="https://www.linkedin.com/in/sambit-kumar-bhanjadeo-a24765191/" target="blank">
