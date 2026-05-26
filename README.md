@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/sambit45">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=Spring+Boot+Developer;Software_Developer;Kafka+%7C+AWS+%7C+Docker;Building+Scalable+Backend+Systems" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=Spring+Boot+Developer;Software_Developer;Java+%7C+Springboot+%7C+Security+%7C+Microservices+%7C+Kafka+%7C+AWS+%7C+Docker;Building+Scalable+Backend+Systems" />
   </a>
 </p>
 
