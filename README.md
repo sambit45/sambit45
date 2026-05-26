@@ -52,7 +52,7 @@
 
 ### 🚀 Backend
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,redis,kafka,mongodb" />
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,redis,kafka" />
 </p>
 
 ### 🎨 Frontend
@@ -62,7 +62,7 @@
 
 ### ☁️ Cloud & DevOps
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,githubactions,terraform" />
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,githubactions" />
 </p>
 
 ### 🛠️ Tools
